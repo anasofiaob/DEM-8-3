@@ -16,6 +16,9 @@ font-style: oblique;
         height: 200px;
 
         background-color: rgb(247, 214, 242);
+        text-align: center;
+font-size: 25px;
+font-style: inherit;
     }
     .uvitas{
 
