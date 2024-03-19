@@ -1,15 +1,27 @@
-.contenedor{
+   .quesito{
 
-width: 10000px;
-height: 100px;
-background-color: rgb(186, 172, 248);..
-}
+    width: 100%;
 
+    height: 200px;
 
+    background-color: rgb(180, 215, 245);
+    text-align: center;
+    font-size: 30px;
+font-style: oblique;
+   }
+    .fresitas{
 
-.bolis-de-queso-y-bocadillo{
-width: 10000px;
-height: 50px;
-background-color: rgb(220, 193, 245);
+        width: 100%;
 
-}
+        height: 200px;
+
+        background-color: rgb(247, 214, 242);
+    }
+    .uvitas{
+
+        width: 100%;
+
+        height: 200px;
+
+        background-color: rgb(190, 176, 253);
+    }
