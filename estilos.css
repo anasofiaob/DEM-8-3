@@ -1,0 +1,18 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(12, 11, 11);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-color: rgb(195, 174, 214);
+    background-repeat: no-repeat;
+
+}
