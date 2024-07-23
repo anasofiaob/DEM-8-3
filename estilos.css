@@ -12,7 +12,38 @@
      
 }
 body{
-    background-color: rgb(195, 174, 214);
-    background-repeat: no-repeat;
+    background-image: url("fondom.jpg");
+    background-repeat:  repeat;
 
+}
+
+
+.qsito{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(0, 0, 0);
+} 
+
+.titulo{
+   
+    font-size: 50px;
+    padding-top:23px;
+    text-align: center;
+    color: rgb(245, 111, 111);
+}
+
+.desorden{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(14, 13, 13);
+}
+.img1{
+height: 242px;
+width: 225px;
+    background-image: url("sistemaelectrico.jpg");
+    float: right;
 }
