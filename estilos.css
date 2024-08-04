@@ -46,4 +46,29 @@ height: 242px;
 width: 225px;
     background-image: url("sistemaelectrico.jpg");
     float: right;
-}
+        }
+      .img2{
+    height: 400px;
+    width: 425px;
+        background-image: url("tcas.jpg");
+    }
+
+    .img3{
+        height: 400px;
+        width: 425px;
+            background-image: url("anorexia.jpg");
+            float: right;
+        }
+        .img4{
+            height: 400px;
+            width: 425px;
+                background-image: url("bulimia.jpg");
+                float: right;
+              }
+ .img5{
+  height: 1982px;
+width: 2000px;
+  background-image: url("Mapamental.jpg")
+   }
+
+
