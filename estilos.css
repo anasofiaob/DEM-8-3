@@ -31,7 +31,7 @@ body{
     font-size: 50px;
     padding-top:23px;
     text-align: center;
-    color: rgb(245, 111, 111);
+    color: rgb(0, 0, 0);
 }
 
 .desorden{
@@ -68,7 +68,68 @@ width: 225px;
  .img5{
   height: 1982px;
 width: 2000px;
-  background-image: url("Mapamental.jpg")
+  background-image: url("Mapamental.jpg")   
    }
+   
+   .img6{
+    height: 400px;
+    width: 425px;
+        background-image: url("tratademas.jfif");
+        float: right;
+      }
+      .img7{
+        height: 400px;
+        width: 425px;
+            background-image: url("aceptar.jfif");
+            float: right;
+          }
+  .img8{
+  height: 400px;
+  width: 425px;
+ background-image: url("violencia.jfif");
+ float: right;
+ }
+  .img9{
+ height: 400px;
+  width: 425px;
+  background-image: url("Identidad.webp");
+ float: right;
+ }
+ .img10{
+  height: 400px;
+  width: 425px;
+  background-image: url("estereotipos.jfif");
+   float: right;
+ }
 
+ .img11{
+    height: 800px;
+    width: 1000px;
+    background-image: url("social.png");
+     float: right;
+   }
+   .img12{
+    height: 800px;
+    width: 1000px;
+    background-image: url("Anasofia.jpeg");
+     float: right;
+   }
+   .img13{
+    height: 800px;
+    width: 1000px;
+    background-image: url("majo.jpeg");
+     float: right;
+   }
+   .img14{
+    height: 800px;
+    width: 1000px;
+    background-image: url("palacio.jpeg");
+     float: right;
+   }
+   .img15{
+    height: 800px;
+    width: 1000px;
+    background-image: url("logo.jpeg");
+     float: right;
+   }
 
